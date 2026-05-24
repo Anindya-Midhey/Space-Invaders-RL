@@ -1,0 +1,4 @@
+Python==3.11.9
+Pygame==2.6.1
+Matplotlib==3.9.0
+NumPy==2.0.0
